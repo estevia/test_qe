@@ -1,0 +1,23 @@
+############################ INTRO SCREEN ######################
+next_button_on_welcome_page: "id:bmd.android.apps:id/nextButton"
+button_login: "id:bmd.android.apps:id/btnLogin"
+
+############### LOGIN SCREEN ###################################
+email_text_field: "id:bmd.android.apps:id/txtEmail"
+password_text_field: "id:bmd.android.apps:id/txtPassword"
+
+
+search_bar: "id:bmd.android.apps:id/searchBar"
+search_text_field: "id:bmd.android.apps:id/search_src_text"
+search_product_list1: "id:bmd.android.apps:id/contentView"
+button_add_to_cart: "id:bmd.android.apps:id/button_addto_cart"
+add_to_cart_on_popup_confirmation: "id:bmd.android.apps:id/button_atc"
+back_button: "accessibility_id:Navigate up"
+category: "accessibility_id:Kategori"
+tech_n_communication_category: "xpath://androidx.recyclerview.widget.RecyclerView[1]/android.widget.RelativeLayout[1]/following-sibling::android.widget.RelativeLayout[1]"
+product_category_list1: "xpath://androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[1]"
+dashboard: accessibility_id:Beranda
+product_sale: "id:bmd.android.apps:id/discountPercentageText"
+cart_menu: "id:bmd.android.apps:id/menu_cart"
+total: "id:bmd.android.apps:id/totalLabe"
+total_amount: "id:bmd.android.apps:id/totalAmount"
