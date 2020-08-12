@@ -1,0 +1,63 @@
+## Verify User can add product from search product
+
+Precondition:
+1. User already install Bhinneka apps
+2. User has Bhinneka account
+
+Step :
+1. User open Bhinneka apps
+2. User Skip intro screen
+3. User search product in search field with match record (exp : macbook pro 2019)
+4. User click product macbook pro 2019
+5. User click “add to cart” button
+6. User check detail product and quantity product
+7. User click button “add to cart” on pop up detail product
+
+Expected Result :
+1. Verify detail product must be same with product on landing screen
+2. Verify there is a success snackbar
+3. Make sure product that has been chosen, already in cart
+
+
+## Verify User can add product from category
+
+Precondition:
+1. User already install Bhinneka apps
+2. User has Bhinneka account
+
+Step :
+1. User open Bhinneka apps
+2. User Skip intro screen
+3. User click Category button
+4. User click one of category ( exp : Technology & Communication )
+5. User click Tablet
+6. User click product ( exp : apple ipad 7 2019 )
+7. User click “add to cart” button
+8. User check detail product and quantity product
+9. User click button “add to cart” on pop up detail product
+
+Expected Result :
+1. Verify detail product must be same with product on landing screen
+2. Verify there is a success snackbar 
+3. Make sure product that has been chosen, already in cart
+
+
+## Verify User can add product from flash sale
+
+Precondition:
+1. User already install Bhinneka apps
+2. User has Bhinneka account
+
+Step :
+1. User open Bhinneka apps
+2. User Skip intro screen
+3. User see product on flash sale
+4. User click one of product that want to be buy
+5. User click “add to cart” button
+6. User check detail product and quantity product
+7. User click button “add to cart” on pop up detail product
+
+Expected Result :
+1. Verify detail product must be same with product on landing screen
+2. Verify there is a success snackbar 
+3. Make sure product that has been chosen, already in cart
